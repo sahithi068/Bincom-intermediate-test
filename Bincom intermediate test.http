@@ -1,0 +1,6 @@
+@Bincom_intermediate_test_HostAddress = http://localhost:5155
+
+GET {{Bincom_intermediate_test_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
